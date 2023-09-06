@@ -1,5 +1,5 @@
 # documents
-This folder containt a lots of pdf documents about diferents good software practises.
+This folder contains a lots of pdf about diferents good software practises.
 
 
 # Index
