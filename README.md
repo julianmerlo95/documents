@@ -1,8 +1,8 @@
-# documents
+## Application
 This folder contains a lots of pdf about diferents good software practises.
 
 
-# Index
+## Documents
 
 ```bash
   1- graphQlVsApiRest.pdf
